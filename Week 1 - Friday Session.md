@@ -62,10 +62,70 @@ Goals:
 	- Anthropomorphic Projection onto LLMs
 	- Neural net consists of neurons like the brain
 		- Clever Hans problem?
-	- 
+- We want a 'competent assistant'
+	- Don't want preset answers
 
+## Brief history of Generative AI
+- Turing Test
+- Chomsky
+- Parts of speech - "Fruit flies like a banana"
+- Block world - need to know how to move things accordingly
+	- ![](Pasted%20image%2020240503170241.png)
+- ![](Pasted%20image%2020240503170337.png)
+- Cyc - Project to replicate the knowledge of a 7 year old
+	- Did not know that new borns could not walk
+- MYCIN (1975) - Narrowly focused on diagnosing bacterial infections
+- AlexNet (2010) - Identified 1000 different images 
+- Speech Recognition 
+	- It's hard to recognize speech v It's hard to wreck a nice beach
+	- Alexa, Siri, Google
+- Self Driving Cars/ Robots
+	- So many edge cases
+	- Not quite ready, getting closer everyday
+	- DARPA Grand Challenge (2004)
+
+## Where are we now?
+- Neural Nets
+	- Complex phenomenon as Vectors and matrices
+	- Multiple layers allow for learning complex decision boundaries
+	- Simple non-linear classification
+	- ![](Pasted%20image%2020240503171033.png)
+	- ![](Pasted%20image%2020240503171204.png)
+	- LLMs 
+		- building on the translation
+		- predict next token based on previous token sequence
+		- Tokens can be words or other segments (musical note, etc.)
+		- LLM really a device with these attributes
+			- Transformer architecture
+			- Segmentation/tokenization
+			- pre-trained on some tasks
+			- Manipulates embeddings to create some output
+	- ELIZA
+		- ![](Pasted%20image%2020240503171628.png)
+	- ![](Pasted%20image%2020240503171823.png)
+	- ![](Pasted%20image%2020240503171953.png)
+
+## Implications of Evaluation
+- How should we evaluate GenAI? Same as humans?
+- Evaluate in one dimension or many dimensions?
+	- GPT-4 Tech Report Test Scores
+	- HELM - Holistic evaluation of LMs
+- ![](Pasted%20image%2020240503172233.png)
+- ![](Pasted%20image%2020240503172410.png)
+- MMMU: A new benchmark designed to evaluate multimodal models on massive multi-discipline tasks demanding college-level subject knowledge and deliberate reasoning
+	- ![](Pasted%20image%2020240503172749.png)
+- Evaluation is a growing area of research
+	- Many claims/tests
 ## Beyond Evaluation (safety and ethical issues)?
-
+- ![](Pasted%20image%2020240503173200.png)
+- ![](Pasted%20image%2020240503173232.png)
+- ![](Pasted%20image%2020240503173352.png)
+- ![](Pasted%20image%2020240503173449.png)
+- Bias/Fairness
+	- What was the model trained on?
+	- What kinds of bias will it reflect?
+- ![](Pasted%20image%2020240503173534.png)
+- ![](Pasted%20image%2020240503173930.png)
 
 
 
