@@ -56,3 +56,8 @@ LLM Approach
 - No rules!
 - Predict the next token using probabilities
 - Trained on 15+ trillion tokens
+- A bigger model does not necessarily mean a better model
+
+### Evaluation and Expectations
+- ![](Pasted%20image%2020240508200003.png)
+- 
