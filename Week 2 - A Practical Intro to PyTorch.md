@@ -45,3 +45,8 @@ pytorch.org/tutorials/beginner/basics/intro
 
 ![](Pasted%20image%2020240515180445.png)
 - Relu turns everything less than 0 to 0
+
+![](Pasted%20image%2020240515182248.png)
+
+![](Pasted%20image%2020240515182257.png)
+![](Pasted%20image%2020240515182702.png)
