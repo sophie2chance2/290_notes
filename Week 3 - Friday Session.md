@@ -41,5 +41,18 @@ Transformers allow you to train IN PARALLEL
 - ![](Pasted%20image%2020240517170044.png)
 -
 ## Transfer Learning
-![](Pasted%20image%2020240517170252.png)
-- 
+![](Pasted%20image%2020240517170533.png)
+- Won't have enough data to do without transfer learning
+1. Train data on unrelated data
+2. Initialize with your dataset
+3. Start training on new dataset
+4. Fine tune
+5. Get better results
+![](Pasted%20image%2020240517170855.png)
+![](Pasted%20image%2020240517171151.png)
+![](Pasted%20image%2020240517171739.png)
+
+![](Pasted%20image%2020240517171835.png)
+![](Pasted%20image%2020240517172043.png)
+![](Pasted%20image%2020240517172236.png)
+![](Pasted%20image%2020240517172503.png)
