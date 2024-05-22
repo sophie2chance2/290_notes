@@ -8,5 +8,5 @@
 		- Now, keep and modify the full sentence 
 		- distill.pub/2016/augmented-rnns/
 			- ![](Pasted%20image%2020240521173141.png)
-			- 
+	- https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
 
