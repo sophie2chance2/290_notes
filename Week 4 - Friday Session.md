@@ -37,4 +37,30 @@
 # Reinforcement Learning
 ![](Pasted%20image%2020240528143955.png)
 - Reward system - take action based on reward structure
-- 
+- Usually there is no reward until the very end
+
+![](Pasted%20image%2020240528144238.png)
+- At every decision, there is an infinite number of combinations
+- Goal: Find a policy - 
+	- A policy is the conditional probability to take an action A at time t when you are in state S at time T. YOu should take an action A at time S
+	- ![](Pasted%20image%2020240528144509.png)
+	- Optimize the reward over time
+	- Can be deterministic or stochastic
+	- Similar to what we are doing with predicting tokens given the context
+	- ![](Pasted%20image%2020240528144845.png)
+		- Estimate the value of a state if you take an action A given policy, pi. 
+		- Chess - assign a value for this situation
+- ![](Pasted%20image%2020240528145109.png)
+- ![](Pasted%20image%2020240528151644.png)
+# Instruction-based Training
+# Reinforcement Learning from Human Feedback
+![](Pasted%20image%2020240528152256.png)
+![](Pasted%20image%2020240528152417.png)
+- ^ Want to optimize this
+- Can't just optimize for just one reward number. Need to keep the model pretty similar to the original model - you are fine tuning not redoing
+- ![](Pasted%20image%2020240528153136.png)
+
+# DPO
+![](Pasted%20image%2020240528153614.png)
+![](Pasted%20image%2020240528154128.png)
+
