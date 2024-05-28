@@ -16,7 +16,7 @@ Final
 - Implement a RAG with gold answers
 - Constraints on what technologies you can use
 - Make a model that is preforment
-![](Pasted%20image%2020240508185745.png)
+![](photos/Pasted%20image%2020240508185745.png)
 
 Goals:
 - Remind ourselves of how 'AI' used to be approached
@@ -48,8 +48,8 @@ Older AI approach
 	- Expert systems encoded rules that helped humans make decision and reach conclusions
 - Understand what it DOES and what it DOES NOT DO
 	- Move away from the Hype so we don't get another AI winter
-- ![](Pasted%20image%2020240508192732.png)
-- ![](Pasted%20image%2020240508192746.png)
+- ![](photos/Pasted%20image%2020240508192732.png)
+- ![](photos/Pasted%20image%2020240508192746.png)
 - Fruit flies like a banana
 
 LLM Approach
@@ -59,5 +59,5 @@ LLM Approach
 - A bigger model does not necessarily mean a better model
 
 ### Evaluation and Expectations
-- ![](Pasted%20image%2020240508200003.png)
+- ![](photos/Pasted%20image%2020240508200003.png)
 - 
