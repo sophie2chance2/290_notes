@@ -40,3 +40,27 @@ How is an LLM trained?
 		- Mixture of experts that focus on language
 - Attention heads
 	- Kind of like filters
+
+# Vision Transformers
+![](Pasted%20image%2020240605194136.png)
+![](Pasted%20image%2020240605194145.png)
+- Take a picture and segment it (tokenize the photo)
+	- randomly mask one token
+	- Predict something about that masked token
+- Reduce the number of colors
+![](Pasted%20image%2020240605194600.png)
+- Predict the class based on the labels you are given
+- Modify the weights in the model as predictions are right/wrong
+
+![](Pasted%20image%2020240605194723.png)
+
+![](Pasted%20image%2020240605194906.png)
+
+![](Pasted%20image%2020240605195020.png)
+![](Pasted%20image%2020240605195109.png)
+- High cos similarity if they belong together & low if they do not
+![](Pasted%20image%2020240605195307.png)
+- Encode the words, encode the image, do cos similarity
+
+![](Pasted%20image%2020240605195726.png)
+- Compare input to reconstructed input
